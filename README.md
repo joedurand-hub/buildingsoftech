@@ -1,27 +1,33 @@
-# BuildingSoft Tech Website
+# BuildingSoft Tech public app catalog
 
-Static umbrella website for BuildingSoft Tech and app legal pages.
+Static company website and source of truth for every app's public product, support, and legal routes. It is safe to host on GitHub Pages because it contains no credentials or private analytics.
 
-Suggested GitHub Pages repository:
+## Required structure per app
 
-```txt
-buildingsofttech.github.io
+```text
+apps/<slug>/
+├── app.json
+├── index.html
+├── privacy/index.html
+├── terms/index.html
+├── refunds/index.html
+├── support/index.html
+├── account-deletion/index.html
+└── assets/screenshots/
 ```
 
-Routes:
+`apps/app.schema.json` defines the machine-readable contract used by the future admin/backend. `apps/catalog.js` controls which apps appear on the home page. Copy `apps/_template/`, replace every `{{PLACEHOLDER}}`, then add the app to the catalog.
 
-```txt
-/
-/apps/clearpuff/
-/apps/clearpuff/privacy/
-/apps/clearpuff/terms/
-/apps/clearpuff/support/
-```
+An app is not release-ready while any of these are missing:
 
-Current support email:
+- product description and actual screenshots from the shipping build;
+- product-specific privacy policy and terms;
+- support email/route;
+- public account and data deletion instructions, including apps that do not use accounts;
+- purchase restoration, subscription cancellation, and refund guidance when monetized;
+- matching Android package and iOS bundle identifiers;
+- localized store metadata for the intended launch languages.
 
-```txt
-buildingsofttech@gmail.com
-```
+Never add service-account JSON, API keys, store private keys, customer exports, or analytics data to this repository. The admin's safe handoff export may be shared; its encrypted private vault must remain separately controlled.
 
-The contact form uses `mailto:` so it works on GitHub Pages without a backend. For a more reliable form later, replace the form submit handler with Formspree, Basin, Netlify Forms, or a small backend endpoint.
+The support email is declared per app in `app.json` and must match the address shown inside that app.

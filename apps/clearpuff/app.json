@@ -1,0 +1,44 @@
+{
+  "$schema": "../app.schema.json",
+  "schemaVersion": 1,
+  "id": "clearpuff",
+  "name": "ClearPuff",
+  "status": "internal-testing",
+  "category": "Health & habits",
+  "shortDescription": "Track vaping patterns, understand cravings, and build a calmer quit plan.",
+  "supportEmail": "buildingsofttech@gmail.com",
+  "identifiers": {
+    "androidPackage": "com.buildingsofttech.clearpuff",
+    "iosBundle": "com.buildingsofttech.clearpuff"
+  },
+  "routes": {
+    "landing": "/apps/clearpuff/",
+    "privacy": "/apps/clearpuff/privacy/",
+    "terms": "/apps/clearpuff/terms/",
+    "refunds": "/apps/clearpuff/refunds/",
+    "support": "/apps/clearpuff/support/",
+    "accountDeletion": "/apps/clearpuff/account-deletion/"
+  },
+  "storeAssets": {
+    "icon": null,
+    "featureGraphic": null,
+    "screenshots": []
+  },
+  "locales": ["en"],
+  "monetization": {
+    "enabled": true,
+    "restorePurchases": true,
+    "cancelRoute": true,
+    "refundRoute": true,
+    "lootBoxes": false
+  },
+  "releaseReadiness": {
+    "description": true,
+    "privacy": true,
+    "terms": true,
+    "refunds": true,
+    "support": true,
+    "accountDeletion": true,
+    "screenshots": false
+  }
+}

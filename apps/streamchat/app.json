@@ -1,0 +1,53 @@
+{
+  "$schema": "../app.schema.json",
+  "schemaVersion": 1,
+  "id": "streamchat",
+  "name": "StreamChat",
+  "status": "live",
+  "category": "Social",
+  "shortDescription": "Compartí contenido, transmití en vivo, chateá y conectá con una comunidad para adultos.",
+  "supportEmail": "contacto@buildingsoft.tech",
+  "identifiers": {
+    "androidPackage": "com.buildingsofttech.streamchat",
+    "iosBundle": null
+  },
+  "routes": {
+    "landing": "/apps/streamchat/",
+    "privacy": "/apps/streamchat/privacy/",
+    "terms": "/apps/streamchat/terms/",
+    "refunds": "/apps/streamchat/refunds/",
+    "support": "/apps/streamchat/support/",
+    "accountDeletion": "/apps/streamchat/account-deletion/"
+  },
+  "storeAssets": {
+    "icon": "/apps/streamchat/assets/icon.png",
+    "featureGraphic": "/apps/streamchat/assets/feature-graphic.png",
+    "screenshots": [
+      "/apps/streamchat/assets/screenshots/screenshot-01.png",
+      "/apps/streamchat/assets/screenshots/screenshot-02.png",
+      "/apps/streamchat/assets/screenshots/screenshot-03.png",
+      "/apps/streamchat/assets/screenshots/screenshot-04.png",
+      "/apps/streamchat/assets/screenshots/screenshot-05.png",
+      "/apps/streamchat/assets/screenshots/screenshot-06.png",
+      "/apps/streamchat/assets/screenshots/screenshot-07.png",
+      "/apps/streamchat/assets/screenshots/screenshot-08.png"
+    ]
+  },
+  "locales": ["es", "en", "pt", "vi", "id", "fr", "de", "pl", "uk", "ru", "zh", "ja", "ko"],
+  "monetization": {
+    "enabled": true,
+    "restorePurchases": false,
+    "cancelRoute": false,
+    "refundRoute": true,
+    "lootBoxes": false
+  },
+  "releaseReadiness": {
+    "description": true,
+    "privacy": true,
+    "terms": true,
+    "refunds": true,
+    "support": true,
+    "accountDeletion": true,
+    "screenshots": true
+  }
+}
