@@ -7,17 +7,19 @@
   "category": "Social",
   "shortDescription": "Compartí contenido, transmití en vivo, chateá y conectá con una comunidad para adultos.",
   "supportEmail": "contacto@buildingsoft.tech",
+  "publicUrl": "https://buildingsofttech.vercel.app/apps/streamchat/",
   "identifiers": {
     "androidPackage": "com.buildingsofttech.streamchat",
     "iosBundle": null
   },
   "routes": {
-    "landing": "/apps/streamchat/",
-    "privacy": "/apps/streamchat/privacy/",
-    "terms": "/apps/streamchat/terms/",
-    "refunds": "/apps/streamchat/refunds/",
-    "support": "/apps/streamchat/support/",
-    "accountDeletion": "/apps/streamchat/account-deletion/"
+    "landing": "https://buildingsofttech.vercel.app/apps/streamchat/",
+    "privacy": "https://buildingsofttech.vercel.app/apps/streamchat/privacy/",
+    "terms": "https://buildingsofttech.vercel.app/apps/streamchat/terms/",
+    "refunds": "https://buildingsofttech.vercel.app/apps/streamchat/refunds/",
+    "support": "https://buildingsofttech.vercel.app/apps/streamchat/support/",
+    "accountDeletion": "https://buildingsofttech.vercel.app/apps/streamchat/account-deletion/",
+    "childSafety": "https://buildingsofttech.vercel.app/apps/streamchat/child-safety/"
   },
   "storeAssets": {
     "icon": "/apps/streamchat/assets/icon.png",
@@ -48,6 +50,7 @@
     "refunds": true,
     "support": true,
     "accountDeletion": true,
+    "childSafety": true,
     "screenshots": true
   }
 }

@@ -7,10 +7,11 @@
   "category": "{{CATEGORY}}",
   "shortDescription": "{{SHORT_DESCRIPTION}}",
   "supportEmail": "buildingsofttech@gmail.com",
+  "publicUrl": "https://buildingsofttech.vercel.app/apps/{{APP_SLUG}}/",
   "identifiers": { "androidPackage": null, "iosBundle": null },
-  "routes": { "landing": "/apps/{{APP_SLUG}}/", "privacy": "/apps/{{APP_SLUG}}/privacy/", "terms": "/apps/{{APP_SLUG}}/terms/", "refunds": "/apps/{{APP_SLUG}}/refunds/", "support": "/apps/{{APP_SLUG}}/support/", "accountDeletion": "/apps/{{APP_SLUG}}/account-deletion/" },
+  "routes": { "landing": "https://buildingsofttech.vercel.app/apps/{{APP_SLUG}}/", "privacy": "https://buildingsofttech.vercel.app/apps/{{APP_SLUG}}/privacy/", "terms": "https://buildingsofttech.vercel.app/apps/{{APP_SLUG}}/terms/", "refunds": "https://buildingsofttech.vercel.app/apps/{{APP_SLUG}}/refunds/", "support": "https://buildingsofttech.vercel.app/apps/{{APP_SLUG}}/support/", "accountDeletion": "https://buildingsofttech.vercel.app/apps/{{APP_SLUG}}/account-deletion/", "childSafety": null },
   "storeAssets": { "icon": null, "featureGraphic": null, "screenshots": [] },
   "locales": ["es", "en"],
   "monetization": { "enabled": false, "restorePurchases": false, "cancelRoute": false, "refundRoute": true, "lootBoxes": false },
-  "releaseReadiness": { "description": false, "privacy": false, "terms": false, "refunds": false, "support": false, "accountDeletion": false, "screenshots": false }
+  "releaseReadiness": { "description": false, "privacy": false, "terms": false, "refunds": false, "support": false, "accountDeletion": false, "childSafety": false, "screenshots": false }
 }

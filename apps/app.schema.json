@@ -1,10 +1,10 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://buildingsofttech.github.io/apps/app.schema.json",
+  "$id": "https://buildingsofttech.vercel.app/apps/app.schema.json",
   "title": "BuildingSoft Tech public app manifest",
   "type": "object",
   "additionalProperties": false,
-  "required": ["schemaVersion", "id", "name", "status", "category", "shortDescription", "supportEmail", "identifiers", "routes", "storeAssets", "locales", "monetization", "releaseReadiness"],
+  "required": ["schemaVersion", "id", "name", "status", "category", "shortDescription", "supportEmail", "publicUrl", "identifiers", "routes", "storeAssets", "locales", "monetization", "releaseReadiness"],
   "properties": {
     "$schema": { "type": "string" },
     "schemaVersion": { "const": 1 },
@@ -14,6 +14,7 @@
     "category": { "type": "string", "minLength": 2 },
     "shortDescription": { "type": "string", "minLength": 20, "maxLength": 160 },
     "supportEmail": { "type": "string", "format": "email" },
+    "publicUrl": { "type": "string", "format": "uri", "pattern": "^https://buildingsofttech\\.vercel\\.app/apps/" },
     "identifiers": {
       "type": "object",
       "additionalProperties": false,
@@ -25,7 +26,7 @@
       "additionalProperties": false,
       "required": ["landing", "privacy", "terms", "refunds", "support", "accountDeletion"],
       "properties": {
-        "landing": { "type": "string" }, "privacy": { "type": "string" }, "terms": { "type": "string" }, "refunds": { "type": "string" }, "support": { "type": "string" }, "accountDeletion": { "type": "string" }
+        "landing": { "type": "string", "format": "uri", "pattern": "^https://buildingsofttech\\.vercel\\.app/apps/" }, "privacy": { "type": "string", "format": "uri", "pattern": "^https://buildingsofttech\\.vercel\\.app/apps/" }, "terms": { "type": "string", "format": "uri", "pattern": "^https://buildingsofttech\\.vercel\\.app/apps/" }, "refunds": { "type": "string", "format": "uri", "pattern": "^https://buildingsofttech\\.vercel\\.app/apps/" }, "support": { "type": "string", "format": "uri", "pattern": "^https://buildingsofttech\\.vercel\\.app/apps/" }, "accountDeletion": { "type": "string", "format": "uri", "pattern": "^https://buildingsofttech\\.vercel\\.app/apps/" }, "childSafety": { "type": ["string", "null"], "format": "uri", "pattern": "^https://buildingsofttech\\.vercel\\.app/apps/" }
       }
     },
     "storeAssets": {
@@ -47,7 +48,7 @@
       "type": "object",
       "additionalProperties": false,
       "required": ["description", "privacy", "terms", "refunds", "support", "accountDeletion", "screenshots"],
-      "properties": { "description": { "type": "boolean" }, "privacy": { "type": "boolean" }, "terms": { "type": "boolean" }, "refunds": { "type": "boolean" }, "support": { "type": "boolean" }, "accountDeletion": { "type": "boolean" }, "screenshots": { "type": "boolean" } }
+      "properties": { "description": { "type": "boolean" }, "privacy": { "type": "boolean" }, "terms": { "type": "boolean" }, "refunds": { "type": "boolean" }, "support": { "type": "boolean" }, "accountDeletion": { "type": "boolean" }, "childSafety": { "type": "boolean" }, "screenshots": { "type": "boolean" } }
     }
   }
 }

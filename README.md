@@ -1,6 +1,6 @@
 # BuildingSoft Tech public app catalog
 
-Static company website and source of truth for every app's public product, support, and legal routes. It is safe to host on GitHub Pages because it contains no credentials or private analytics.
+Static company website and source of truth for every app's public product, support, and legal routes. Its canonical production deployment is `https://buildingsofttech.vercel.app/` and it contains no credentials or private analytics.
 
 ## Required structure per app
 

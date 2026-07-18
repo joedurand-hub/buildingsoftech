@@ -7,17 +7,18 @@
   "category": "Health & habits",
   "shortDescription": "Track vaping patterns, understand cravings, and build a calmer quit plan.",
   "supportEmail": "buildingsofttech@gmail.com",
+  "publicUrl": "https://buildingsofttech.vercel.app/apps/clearpuff/",
   "identifiers": {
     "androidPackage": "com.buildingsofttech.clearpuff",
     "iosBundle": "com.buildingsofttech.clearpuff"
   },
   "routes": {
-    "landing": "/apps/clearpuff/",
-    "privacy": "/apps/clearpuff/privacy/",
-    "terms": "/apps/clearpuff/terms/",
-    "refunds": "/apps/clearpuff/refunds/",
-    "support": "/apps/clearpuff/support/",
-    "accountDeletion": "/apps/clearpuff/account-deletion/"
+    "landing": "https://buildingsofttech.vercel.app/apps/clearpuff/",
+    "privacy": "https://buildingsofttech.vercel.app/apps/clearpuff/privacy/",
+    "terms": "https://buildingsofttech.vercel.app/apps/clearpuff/terms/",
+    "refunds": "https://buildingsofttech.vercel.app/apps/clearpuff/refunds/",
+    "support": "https://buildingsofttech.vercel.app/apps/clearpuff/support/",
+    "accountDeletion": "https://buildingsofttech.vercel.app/apps/clearpuff/account-deletion/"
   },
   "storeAssets": {
     "icon": null,
