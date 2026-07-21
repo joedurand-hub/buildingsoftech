@@ -1,5 +1,24 @@
 window.BUILDING_SOFTTECH_APPS = [
   {
+    id: "mystica",
+    name: "Mystica",
+    initials: "MY",
+    category: "Lifestyle & entertainment",
+    shortDescription: "Personalized daily, weekly, and monthly horoscope readings calculated privately on your device.",
+    color: "#6d4be7",
+    status: "development",
+    statusLabel: "Próximamente",
+    public: true,
+    routes: {
+      landing: "./apps/mystica/",
+      privacy: "./apps/mystica/privacy/",
+      terms: "./apps/mystica/terms/",
+      refunds: "./apps/mystica/refunds/",
+      support: "./apps/mystica/support/",
+      accountDeletion: "./apps/mystica/account-deletion/"
+    }
+  },
+  {
     id: "clearpuff",
     name: "ClearPuff",
     initials: "CP",

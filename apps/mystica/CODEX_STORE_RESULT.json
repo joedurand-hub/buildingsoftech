@@ -1,0 +1,218 @@
+{
+  "marketingStrategy": {
+    "positioning": "Mystica se posiciona como un horóscopo personal, privado y contemporáneo para quienes buscan una guía diaria más relevante que los textos zodiacales genéricos. Convierte cálculos astronómicos locales en lecturas originales y fáciles de aplicar, sin copiar contenido editorial ni enviar el perfil a un servidor.",
+    "primaryPromise": "Entender el clima de cada día desde tu signo y tus prioridades mediante una lectura clara sobre amor, bienestar, trabajo y dinero.",
+    "differentiators": [
+      "Lecturas basadas en posiciones astronómicas calculadas directamente en el dispositivo",
+      "Contenido original y determinista, sin scraping, IA generativa ni horóscopos copiados",
+      "Tono y énfasis adaptados al signo solar, etapa vital y foco declarado",
+      "Tres horizontes útiles: lectura diaria, próximos siete días y panorama mensual",
+      "Privacidad local y tarjeta 9:16 para compartir sin revelar respuestas personales"
+    ],
+    "searchIntents": [
+      "horóscopo diario personalizado",
+      "horóscopo de hoy",
+      "daily horoscope",
+      "astrology app",
+      "horóscopo amor trabajo dinero",
+      "horóscopo semanal",
+      "horóscopo mensual",
+      "astrología privada"
+    ],
+    "keywordThemes": [
+      "horóscopo diario y astrología personalizada",
+      "amor, bienestar, trabajo y dinero",
+      "signos del zodiaco y posiciones planetarias",
+      "guía semanal y panorama mensual",
+      "privacidad local y contenido compartible"
+    ],
+    "screenshotNarrative": [
+      "Pantalla 1: descubre qué marca el cielo para ti hoy",
+      "Pantalla 2: personaliza el tono con tu signo, etapa y prioridad",
+      "Pantalla 3: entiende amor, bienestar, trabajo y dinero de un vistazo",
+      "Pantalla 4: anticipa la tendencia de los próximos siete días",
+      "Pantalla 5: reconoce el tema que se repite durante el mes",
+      "Pantalla 6: comparte tu lectura como una Historia de Mystica",
+      "Pantalla 7: continúa cada día con Premium semanal o anual"
+    ]
+  },
+  "localizations": [
+    {
+      "locale": "en",
+      "title": "Mystica: Daily Horoscope",
+      "subtitle": "Your sky, made personal",
+      "shortDescription": "Personal daily, weekly and monthly astrology, calculated on your device.",
+      "fullDescription": "Your day feels different when your horoscope speaks to what matters to you.\n\nMystica turns the real positions of the Sun, Moon and visible planets into original readings shaped around your solar sign and the focus you choose. The astronomical calculation happens directly on your device, while your profile adjusts the tone and emphasis of the guidance.\n\nEach reading brings clarity to three areas:\n- Love and relationships\n- Wellbeing and energy\n- Work and money\n\nReturn each day for a fresh reading. Look ahead with a summary of the next seven days, then step back to see the patterns that define your month. Your lucky number, color and zodiac affinity add a light, deterministic touch to the main interpretation.\n\nWhen a reading resonates, turn it into a polished 9:16 Mystica card and share it through Instagram Stories or another app. The card includes your horoscope and Mystica branding, never your birth date, age, country or purchase status.\n\nPrivate by design:\n- Planetary positions are calculated locally\n- Readings are stored on your device\n- No account or cloud profile is required\n- No copied website horoscopes or generative AI\n\nStart with three daily readings on three different days. Premium keeps your daily access active and adds weekly and monthly readings through a weekly or annual subscription. Prices, billing periods and renewal terms are always displayed by the app store before purchase. You can restore purchases and manage or cancel your subscription through the store.\n\nMystica offers astrology for entertainment and personal reflection. It is not medical, financial or professional advice, and your decisions always remain your own.",
+      "keywords": "daily horoscope,astrology,zodiac,horoscope today,love,career,weekly,monthly,private",
+      "promotionalText": "Read your day through love, wellbeing, work and money—with astrology calculated privately on your device.",
+      "releaseNotes": "Meet Mystica: personalized daily, seven-day and monthly astrology, private on-device calculations, four interface languages and shareable Story cards.",
+      "status": "draft"
+    },
+    {
+      "locale": "es",
+      "title": "Mystica: Horóscopo diario",
+      "subtitle": "Tu cielo, hecho para ti",
+      "shortDescription": "Horóscopos diarios, semanales y mensuales, personalizados en tu móvil.",
+      "fullDescription": "Tu día se siente diferente cuando el horóscopo habla de lo que realmente te importa.\n\nMystica transforma las posiciones reales del Sol, la Luna y los planetas visibles en lecturas originales basadas en tu signo solar y en el enfoque que elijas. El cálculo astronómico se realiza directamente en tu dispositivo, mientras tu perfil adapta el tono y el énfasis de la lectura.\n\nCada lectura aporta claridad en tres áreas:\n- Amor y relaciones\n- Bienestar y energía\n- Trabajo y dinero\n\nVuelve cada día para descubrir una lectura nueva. Mira hacia adelante con el resumen de los próximos siete días y toma perspectiva con los patrones que definen tu mes. El número, el color y la afinidad zodiacal añaden un complemento ligero y determinista a la interpretación principal.\n\nCuando una lectura conecte contigo, conviértela en una tarjeta 9:16 de Mystica y compártela en Historias de Instagram o mediante otra aplicación. La tarjeta incluye tu horóscopo y la marca Mystica, pero nunca tu fecha de nacimiento, edad, país ni estado de compra.\n\nPrivacidad desde el diseño:\n- Las posiciones planetarias se calculan localmente\n- Las lecturas se guardan en tu dispositivo\n- No necesitas crear una cuenta\n- No se copian horóscopos de webs ni se usa IA generativa\n\nComienza con tres lecturas diarias en tres días diferentes. Premium mantiene el acceso diario y añade las lecturas semanal y mensual mediante una suscripción semanal o anual. La tienda muestra el precio, el periodo de cobro y las condiciones de renovación antes de comprar. Puedes restaurar compras y administrar o cancelar la suscripción desde la tienda.\n\nMystica ofrece astrología para entretenimiento y reflexión personal. No sustituye asesoramiento médico, financiero ni profesional. Tus decisiones siempre son tuyas.",
+      "keywords": "horóscopo diario,astrología,zodiaco,horóscopo hoy,amor,trabajo,dinero,semanal,mensual",
+      "promotionalText": "Descubre tu día en amor, bienestar, trabajo y dinero con astrología calculada de forma privada en tu dispositivo.",
+      "releaseNotes": "Conoce Mystica: lecturas diarias, de siete días y mensuales, cálculo privado en el dispositivo, cuatro idiomas de interfaz y tarjetas para Historias.",
+      "status": "draft"
+    },
+    {
+      "locale": "pt",
+      "title": "Mystica: Horóscopo diário",
+      "subtitle": "Seu céu, do seu jeito",
+      "shortDescription": "Astrologia diária, semanal e mensal personalizada no seu dispositivo.",
+      "fullDescription": "O dia ganha outro sentido quando o horóscopo fala sobre o que importa para você.\n\nMystica transforma as posições reais do Sol, da Lua e dos planetas visíveis em leituras originais guiadas pelo seu signo solar e pelo foco que você escolher. O cálculo astronômico acontece diretamente no seu dispositivo, enquanto o perfil adapta o tom e a ênfase da orientação.\n\nCada leitura traz clareza para três áreas:\n- Amor e relacionamentos\n- Bem-estar e energia\n- Trabalho e dinheiro\n\nVolte todos os dias para uma nova leitura. Antecipe-se com um resumo dos próximos sete dias e observe os padrões que definem o seu mês. Número, cor e afinidade zodiacal acrescentam um toque leve e determinista à interpretação principal.\n\nQuando uma leitura fizer sentido, transforme-a em um card 9:16 da Mystica e compartilhe nos Stories do Instagram ou em outro aplicativo. O card mostra o horóscopo e a marca Mystica, nunca sua data de nascimento, idade, país ou situação da assinatura.\n\nPrivacidade desde o início:\n- Posições planetárias calculadas localmente\n- Leituras armazenadas no dispositivo\n- Nenhuma conta ou perfil na nuvem\n- Sem horóscopos copiados ou IA generativa\n\nComece com três leituras diárias em três dias diferentes. O Premium mantém o acesso diário e adiciona leituras semanais e mensais por assinatura semanal ou anual. A loja sempre mostra preço, período de cobrança e renovação antes da compra. Você pode restaurar compras e gerenciar ou cancelar a assinatura pela loja.\n\nMystica oferece astrologia para entretenimento e reflexão pessoal. Não substitui aconselhamento médico, financeiro ou profissional. Suas decisões continuam sendo suas.",
+      "keywords": "horóscopo diário,astrologia,zodíaco,horóscopo hoje,amor,trabalho,dinheiro,semanal,mensal",
+      "promotionalText": "Entenda amor, bem-estar, trabalho e dinheiro com astrologia calculada de forma privada no seu dispositivo.",
+      "releaseNotes": "Conheça Mystica: leituras diárias, de sete dias e mensais, cálculos privados no dispositivo, quatro idiomas de interface e cards para Stories.",
+      "status": "draft"
+    },
+    {
+      "locale": "vi",
+      "title": "Mystica: Tử vi mỗi ngày",
+      "subtitle": "Bầu trời dành riêng cho bạn",
+      "shortDescription": "Tử vi ngày, tuần và tháng được cá nhân hóa ngay trên thiết bị.",
+      "fullDescription": "Mỗi ngày trở nên gần gũi hơn khi lá số nói đúng điều bạn đang quan tâm.\n\nMystica chuyển vị trí thực của Mặt Trời, Mặt Trăng và các hành tinh có thể quan sát thành những bài đọc nguyên bản dựa trên cung Mặt Trời và trọng tâm bạn chọn. Phép tính thiên văn diễn ra ngay trên thiết bị; hồ sơ chỉ dùng để điều chỉnh giọng điệu và điểm nhấn của nội dung.\n\nMỗi bài đọc tập trung vào ba lĩnh vực:\n- Tình yêu và các mối quan hệ\n- Cân bằng và năng lượng\n- Công việc và tiền bạc\n\nHãy quay lại mỗi ngày để nhận bài đọc mới. Xem trước xu hướng của bảy ngày tới và nhìn rộng hơn qua những tín hiệu lặp lại trong tháng. Con số, màu sắc và cung hoàng đạo tương hợp là phần bổ sung nhẹ nhàng, được xác định nhất quán.\n\nKhi thấy đồng điệu, bạn có thể tạo thẻ Mystica tỷ lệ 9:16 và chia sẻ lên Instagram Stories hoặc ứng dụng khác. Thẻ chỉ chứa nội dung tử vi và thương hiệu Mystica, không hiển thị ngày sinh, độ tuổi, quốc gia hay trạng thái mua hàng.\n\nRiêng tư ngay từ thiết kế:\n- Vị trí hành tinh được tính cục bộ\n- Bài đọc được lưu trên thiết bị\n- Không cần tài khoản hay hồ sơ đám mây\n- Không sao chép tử vi trên web, không dùng AI tạo sinh\n\nBạn bắt đầu với ba bài đọc hằng ngày trong ba ngày khác nhau. Premium duy trì quyền truy cập mỗi ngày và mở bài đọc tuần, tháng qua gói đăng ký theo tuần hoặc năm. Cửa hàng luôn hiển thị giá, chu kỳ thanh toán và điều khoản gia hạn trước khi mua. Bạn có thể khôi phục giao dịch và quản lý hoặc hủy đăng ký trong cửa hàng.\n\nMystica chỉ cung cấp nội dung chiêm tinh để giải trí và tự suy ngẫm; không thay thế tư vấn y tế, tài chính hay chuyên môn.",
+      "keywords": "tử vi,cung hoàng đạo,tử vi hôm nay,chiêm tinh,tình yêu,công việc,tiền bạc,tuần,tháng",
+      "promotionalText": "Khám phá tình yêu, năng lượng, công việc và tiền bạc qua bài đọc được tính riêng trên thiết bị.",
+      "releaseNotes": "Ra mắt Mystica với bài đọc ngày, bảy ngày và tháng, tính toán riêng tư trên thiết bị, bốn ngôn ngữ giao diện và thẻ chia sẻ.",
+      "status": "draft"
+    },
+    {
+      "locale": "id",
+      "title": "Mystica: Horoskop Harian",
+      "subtitle": "Langitmu, bacaanmu",
+      "shortDescription": "Horoskop harian, mingguan, dan bulanan yang diproses di perangkat.",
+      "fullDescription": "Hari terasa lebih bermakna saat horoskop membahas hal yang benar-benar penting bagimu.\n\nMystica mengubah posisi nyata Matahari, Bulan, dan planet yang terlihat menjadi bacaan orisinal berdasarkan zodiak Matahari dan fokus pilihanmu. Perhitungan astronomi berlangsung langsung di perangkat, sedangkan profil hanya menyesuaikan nada dan penekanan bacaan.\n\nSetiap bacaan memberi sudut pandang pada tiga bidang:\n- Cinta dan hubungan\n- Keseimbangan dan energi\n- Pekerjaan dan keuangan\n\nKembali setiap hari untuk bacaan baru. Lihat kecenderungan tujuh hari ke depan, lalu kenali pola yang membentuk bulanmu. Angka, warna, dan kecocokan zodiak menjadi pelengkap ringan yang ditentukan secara konsisten.\n\nSaat bacaan terasa pas, buat kartu Mystica 9:16 dan bagikan melalui Instagram Stories atau aplikasi lain. Kartu hanya menampilkan horoskop dan merek Mystica, tanpa tanggal lahir, usia, negara, atau status pembelianmu.\n\nPrivasi sejak awal:\n- Posisi planet dihitung secara lokal\n- Bacaan disimpan di perangkat\n- Tidak memerlukan akun atau profil cloud\n- Tanpa menyalin horoskop web atau AI generatif\n\nMulai dengan tiga bacaan harian pada tiga hari yang berbeda. Premium mempertahankan akses harian dan membuka bacaan mingguan serta bulanan melalui langganan mingguan atau tahunan. Harga, periode tagihan, dan ketentuan perpanjangan selalu ditampilkan toko sebelum pembelian. Pembelian dapat dipulihkan dan langganan dapat dikelola atau dibatalkan melalui toko.\n\nMystica menyediakan astrologi untuk hiburan dan refleksi pribadi. Bukan pengganti nasihat medis, keuangan, atau profesional.",
+      "keywords": "horoskop harian,astrologi,zodiak,ramalan hari ini,cinta,karier,uang,mingguan,bulanan",
+      "promotionalText": "Pahami cinta, energi, pekerjaan, dan uang lewat astrologi yang dihitung secara privat di perangkatmu.",
+      "releaseNotes": "Mystica hadir dengan bacaan harian, tujuh hari, dan bulanan, perhitungan privat di perangkat, empat bahasa antarmuka, dan kartu berbagi.",
+      "status": "draft"
+    },
+    {
+      "locale": "fr",
+      "title": "Mystica : Horoscope du jour",
+      "subtitle": "Votre ciel, rien qu’à vous",
+      "shortDescription": "Astrologie quotidienne, hebdomadaire et mensuelle calculée sur l’appareil.",
+      "fullDescription": "La journée prend un autre sens lorsque l’horoscope parle de ce qui compte vraiment pour vous.\n\nMystica transforme les positions réelles du Soleil, de la Lune et des planètes visibles en lectures originales guidées par votre signe solaire et la priorité choisie. Le calcul astronomique s’effectue directement sur votre appareil ; votre profil adapte uniquement le ton et les points mis en avant.\n\nChaque lecture éclaire trois domaines :\n- Amour et relations\n- Bien-être et énergie\n- Travail et argent\n\nRevenez chaque jour pour une nouvelle lecture. Anticipez la tendance des sept prochains jours, puis prenez du recul sur les signaux qui dessinent votre mois. Nombre, couleur et affinité zodiacale complètent l’interprétation de façon légère et déterministe.\n\nLorsqu’une lecture vous ressemble, créez une carte Mystica au format 9:16 et partagez-la dans les Stories Instagram ou une autre application. La carte contient votre horoscope et la marque Mystica, jamais votre date de naissance, votre âge, votre pays ou votre statut d’achat.\n\nLa confidentialité dès la conception :\n- Positions planétaires calculées localement\n- Lectures conservées sur l’appareil\n- Aucun compte ni profil cloud requis\n- Aucun horoscope copié ni IA générative\n\nCommencez avec trois lectures quotidiennes réparties sur trois jours. Premium maintient l’accès quotidien et ajoute les lectures hebdomadaires et mensuelles avec un abonnement à la semaine ou à l’année. La boutique affiche toujours le prix, la période de facturation et le renouvellement avant l’achat. Vous pouvez restaurer vos achats et gérer ou résilier l’abonnement depuis la boutique.\n\nMystica propose de l’astrologie pour le divertissement et la réflexion personnelle. Elle ne remplace aucun conseil médical, financier ou professionnel.",
+      "keywords": "horoscope du jour,astrologie,zodiaque,amour,travail,argent,horoscope semaine,mois,privé",
+      "promotionalText": "Éclairez amour, énergie, travail et argent grâce à une astrologie calculée en toute confidentialité sur votre appareil.",
+      "releaseNotes": "Découvrez Mystica : lectures du jour, des sept prochains jours et du mois, calcul local, quatre langues d’interface et cartes à partager.",
+      "status": "draft"
+    },
+    {
+      "locale": "de",
+      "title": "Mystica: Tageshoroskop",
+      "subtitle": "Dein Himmel, deine Deutung",
+      "shortDescription": "Persönliche Tages-, Wochen- und Monatshoroskope direkt auf deinem Gerät.",
+      "fullDescription": "Der Tag fühlt sich anders an, wenn dein Horoskop über das spricht, was dir wirklich wichtig ist.\n\nMystica verwandelt die realen Positionen von Sonne, Mond und sichtbaren Planeten in eigenständige Deutungen, die sich an deinem Sonnenzeichen und deinem gewählten Schwerpunkt orientieren. Die astronomische Berechnung erfolgt direkt auf deinem Gerät; dein Profil passt nur Ton und Gewichtung der Hinweise an.\n\nJede Deutung beleuchtet drei Bereiche:\n- Liebe und Beziehungen\n- Wohlbefinden und Energie\n- Arbeit und Geld\n\nKehre täglich für eine neue Deutung zurück. Sieh dir die Tendenz der kommenden sieben Tage an und erkenne anschließend die Muster, die deinen Monat prägen. Glückszahl, Farbe und Tierkreis-Affinität ergänzen die Hauptdeutung auf leichte, nachvollziehbare Weise.\n\nWenn eine Deutung zu dir passt, erstelle eine Mystica-Karte im Format 9:16 und teile sie über Instagram Stories oder eine andere App. Die Karte enthält dein Horoskop und die Marke Mystica, aber niemals Geburtsdatum, Alter, Land oder Kaufstatus.\n\nPrivatsphäre von Anfang an:\n- Planetenpositionen werden lokal berechnet\n- Deutungen bleiben auf deinem Gerät\n- Kein Konto oder Cloud-Profil erforderlich\n- Keine kopierten Web-Horoskope und keine generative KI\n\nDu startest mit drei Tagesdeutungen an drei verschiedenen Tagen. Premium erhält den täglichen Zugriff und ergänzt Wochen- und Monatsdeutungen über ein wöchentliches oder jährliches Abo. Preis, Abrechnungszeitraum und Verlängerungsbedingungen zeigt der Store vor dem Kauf an. Käufe lassen sich wiederherstellen; das Abo kann im Store verwaltet oder gekündigt werden.\n\nMystica bietet Astrologie zur Unterhaltung und persönlichen Reflexion. Die App ersetzt keine medizinische, finanzielle oder professionelle Beratung.",
+      "keywords": "Tageshoroskop,Astrologie,Sternzeichen,Horoskop heute,Liebe,Beruf,Geld,Woche,Monat,privat",
+      "promotionalText": "Deute Liebe, Energie, Arbeit und Geld mit Astrologie, die privat auf deinem Gerät berechnet wird.",
+      "releaseNotes": "Mystica startet mit Tages-, Sieben-Tage- und Monatsdeutungen, lokaler Berechnung, vier Oberflächensprachen und teilbaren Story-Karten.",
+      "status": "draft"
+    },
+    {
+      "locale": "pl",
+      "title": "Mystica: Horoskop dzienny",
+      "subtitle": "Niebo odczytane dla Ciebie",
+      "shortDescription": "Osobisty horoskop dzienny, tygodniowy i miesięczny liczony na urządzeniu.",
+      "fullDescription": "Dzień wygląda inaczej, gdy horoskop mówi o tym, co naprawdę jest dla Ciebie ważne.\n\nMystica zamienia rzeczywiste pozycje Słońca, Księżyca i widocznych planet w oryginalne odczyty oparte na Twoim znaku słonecznym i wybranym obszarze uwagi. Obliczenia astronomiczne odbywają się bezpośrednio na urządzeniu, a profil dostosowuje jedynie ton i akcenty treści.\n\nKażdy odczyt obejmuje trzy obszary:\n- Miłość i relacje\n- Dobrostan i energia\n- Praca i pieniądze\n\nWracaj codziennie po nowy odczyt. Sprawdź tendencję kolejnych siedmiu dni, a potem zobacz wzorce kształtujące cały miesiąc. Liczba, kolor i zodiakalna zgodność są lekkim, deterministycznym dodatkiem do głównej interpretacji.\n\nGdy odczyt do Ciebie przemówi, utwórz kartę Mystica 9:16 i udostępnij ją w Instagram Stories lub innej aplikacji. Karta zawiera horoskop i markę Mystica, ale nigdy datę urodzenia, wiek, kraj ani status zakupu.\n\nPrywatność od podstaw:\n- Pozycje planet są liczone lokalnie\n- Odczyty pozostają na urządzeniu\n- Nie potrzebujesz konta ani profilu w chmurze\n- Bez kopiowanych horoskopów i generatywnej AI\n\nNa początek otrzymujesz trzy odczyty dzienne w trzy różne dni. Premium utrzymuje codzienny dostęp i dodaje odczyty tygodniowe oraz miesięczne w abonamencie tygodniowym lub rocznym. Sklep zawsze pokazuje cenę, okres rozliczeniowy i zasady odnowienia przed zakupem. Zakupy można przywrócić, a abonament zarządzać lub anulować w sklepie.\n\nMystica oferuje astrologię jako rozrywkę i narzędzie osobistej refleksji. Nie zastępuje porady medycznej, finansowej ani profesjonalnej.",
+      "keywords": "horoskop dzienny,astrologia,znaki zodiaku,horoskop dziś,miłość,praca,pieniądze,tydzień,miesiąc",
+      "promotionalText": "Odkrywaj miłość, energię, pracę i pieniądze dzięki astrologii liczonej prywatnie na Twoim urządzeniu.",
+      "releaseNotes": "Poznaj Mystica: odczyty dzienne, siedmiodniowe i miesięczne, lokalne obliczenia, cztery języki interfejsu i karty do udostępniania.",
+      "status": "draft"
+    },
+    {
+      "locale": "uk",
+      "title": "Mystica: Гороскоп щодня",
+      "subtitle": "Ваше небо, ваші підказки",
+      "shortDescription": "Особисті прогнози на день, тиждень і місяць, обчислені на пристрої.",
+      "fullDescription": "День відчувається інакше, коли гороскоп говорить про те, що справді важливе саме для вас.\n\nMystica перетворює реальні положення Сонця, Місяця та видимих планет на оригінальні тлумачення відповідно до вашого сонячного знака й обраного фокуса. Астрономічні обчислення виконуються безпосередньо на пристрої, а профіль лише налаштовує тон і акценти тексту.\n\nКожне тлумачення охоплює три сфери:\n- Кохання та стосунки\n- Добробут і енергія\n- Робота та гроші\n\nПовертайтеся щодня по нове тлумачення. Переглядайте тенденцію наступних семи днів і помічайте сигнали, що формують ваш місяць. Число, колір і зодіакальна сумісність легко та послідовно доповнюють основний текст.\n\nЯкщо тлумачення вам відгукнулося, створіть картку Mystica 9:16 і поділіться нею в Instagram Stories або іншому застосунку. Картка містить гороскоп і бренд Mystica, але ніколи не показує дату народження, вік, країну чи статус покупки.\n\nПриватність за задумом:\n- Положення планет обчислюються локально\n- Тлумачення зберігаються на пристрої\n- Не потрібен обліковий запис чи хмарний профіль\n- Без скопійованих гороскопів і генеративного ШІ\n\nПочніть із трьох щоденних тлумачень у три різні дні. Premium зберігає щоденний доступ і додає тижневі та місячні тлумачення за щотижневою або річною підпискою. Магазин завжди показує ціну, період оплати й умови поновлення до покупки. Покупки можна відновити, а підписку — керувати або скасувати в магазині.\n\nMystica пропонує астрологію для розваги й особистих роздумів. Вона не замінює медичну, фінансову чи професійну консультацію.",
+      "keywords": "гороскоп щодня,астрологія,зодіак,гороскоп сьогодні,кохання,робота,гроші,тиждень,місяць",
+      "promotionalText": "Досліджуйте кохання, енергію, роботу й гроші через астрологію, що приватно обчислюється на пристрої.",
+      "releaseNotes": "Зустрічайте Mystica: щоденні, семиденні й місячні тлумачення, локальні обчислення, чотири мови інтерфейсу та картки для поширення.",
+      "status": "draft"
+    },
+    {
+      "locale": "ru",
+      "title": "Mystica: Гороскоп на день",
+      "subtitle": "Ваше небо, ваши подсказки",
+      "shortDescription": "Личные прогнозы на день, неделю и месяц, рассчитанные на устройстве.",
+      "fullDescription": "День ощущается иначе, когда гороскоп говорит о том, что действительно важно именно вам.\n\nMystica превращает реальные положения Солнца, Луны и видимых планет в оригинальные толкования с учетом вашего солнечного знака и выбранного фокуса. Астрономические расчеты выполняются прямо на устройстве, а профиль лишь настраивает тон и акценты текста.\n\nКаждое толкование охватывает три сферы:\n- Любовь и отношения\n- Благополучие и энергия\n- Работа и деньги\n\nВозвращайтесь каждый день за новым толкованием. Узнавайте тенденцию следующих семи дней и замечайте сигналы, которые формируют ваш месяц. Число, цвет и зодиакальная совместимость легко и последовательно дополняют основную интерпретацию.\n\nЕсли толкование вам откликнулось, создайте карточку Mystica 9:16 и поделитесь ею в Instagram Stories или другом приложении. Карточка содержит гороскоп и бренд Mystica, но никогда не показывает дату рождения, возраст, страну или статус покупки.\n\nКонфиденциальность по замыслу:\n- Положения планет рассчитываются локально\n- Толкования хранятся на устройстве\n- Не требуется аккаунт или облачный профиль\n- Без скопированных гороскопов и генеративного ИИ\n\nНачните с трех ежедневных толкований в три разных дня. Premium сохраняет ежедневный доступ и добавляет недельные и месячные толкования по еженедельной или годовой подписке. Магазин всегда показывает цену, период оплаты и условия продления до покупки. Покупки можно восстановить, а подпиской — управлять или отменить ее в магазине.\n\nMystica предлагает астрологию для развлечения и личных размышлений. Она не заменяет медицинскую, финансовую или профессиональную консультацию.",
+      "keywords": "гороскоп на день,астрология,зодиак,гороскоп сегодня,любовь,работа,деньги,неделя,месяц",
+      "promotionalText": "Исследуйте любовь, энергию, работу и деньги через астрологию, которая приватно рассчитывается на устройстве.",
+      "releaseNotes": "Встречайте Mystica: ежедневные, семидневные и месячные толкования, локальные расчеты, четыре языка интерфейса и карточки для публикации.",
+      "status": "draft"
+    },
+    {
+      "locale": "zh",
+      "title": "Mystica：每日星座运势",
+      "subtitle": "为你解读今日星空",
+      "shortDescription": "在设备本地计算的个性化每日、每周与每月星座解读。",
+      "fullDescription": "当星座运势真正回应你所关心的事，每一天都会有不同的意义。\n\nMystica 将太阳、月亮和可见行星的真实位置转化为原创解读，并结合你的太阳星座和主动选择的关注方向。天文计算直接在设备上完成，个人资料只用于调整文字的语气与重点。\n\n每次解读聚焦三个领域：\n- 爱情与关系\n- 身心平衡与能量\n- 工作与金钱\n\n每天回来查看新的解读，了解未来七天的整体趋势，再从反复出现的信号中看见本月主题。幸运数字、颜色与星座契合度以轻松且固定的方式补充主要内容。\n\n如果某段解读打动了你，可以生成 9:16 的 Mystica 卡片，并分享到 Instagram Stories 或其他应用。卡片只展示星座内容和 Mystica 品牌，不会显示出生日期、年龄、国家或购买状态。\n\n隐私融入设计：\n- 行星位置在本地计算\n- 解读保存在设备上\n- 无需账号或云端个人资料\n- 不复制网站内容，也不使用生成式 AI\n\n你可以在三个不同日期免费获得三次每日解读。Premium 通过每周或每年订阅延续每日访问，并解锁每周和每月解读。购买前，应用商店会显示价格、计费周期和续订条款。你可以恢复购买，并在商店中管理或取消订阅。\n\nMystica 的占星内容仅用于娱乐和个人反思，不能替代医疗、财务或其他专业建议。",
+      "keywords": "每日星座,今日运势,占星,十二星座,爱情运势,事业运势,财运,每周运势,每月运势",
+      "promotionalText": "从爱情、能量、工作和金钱四个角度读懂今天；所有占星计算均在你的设备上私密完成。",
+      "releaseNotes": "Mystica 首次发布：每日、未来七天和每月解读，本地私密计算，四种界面语言，以及可分享的故事卡片。",
+      "status": "draft"
+    },
+    {
+      "locale": "ja",
+      "title": "Mystica：毎日の星占い",
+      "subtitle": "あなたの空を、あなたらしく",
+      "shortDescription": "端末内で計算する、あなた向けの毎日・週間・月間の星占い。",
+      "fullDescription": "今の自分に大切なことを語りかける星占いなら、一日の見え方も変わります。\n\nMystica は、太陽・月・目に見える惑星の実際の位置を、太陽星座と選んだテーマに沿ったオリジナルのリーディングへ変換します。天文計算は端末内で行われ、プロフィールは文章の語り口と重点を整えるためだけに使われます。\n\nリーディングは3つの分野を照らします。\n- 恋愛と人間関係\n- 心地よさとエネルギー\n- 仕事とお金\n\n毎日、新しいリーディングを確認できます。これから7日間の流れを見通し、繰り返し現れるサインから今月のテーマをつかみましょう。ラッキーナンバー、カラー、相性のよい星座も、一貫した方法で軽やかに添えられます。\n\n心に響いたら、9:16のMysticaカードを作り、Instagram Storiesやほかのアプリで共有できます。カードに表示されるのは星占いとMysticaのブランドだけ。生年月日、年齢、国、購入状況は含まれません。\n\nプライバシーを重視：\n- 惑星位置は端末内で計算\n- リーディングは端末に保存\n- アカウントやクラウドプロフィールは不要\n- ウェブの星占いの転載や生成AIは不使用\n\n異なる3日間に、毎日のリーディングを3回体験できます。Premiumでは、週間または年間サブスクリプションで毎日のアクセスを継続し、週間・月間リーディングも利用できます。購入前にストアが価格、請求期間、更新条件を表示します。購入の復元やサブスクリプションの管理・解約もストアから行えます。\n\nMysticaの占星術は、娯楽と自己対話のためのコンテンツです。医療、金融、その他の専門的な助言に代わるものではありません。",
+      "keywords": "毎日の星占い,今日の運勢,占星術,星座,恋愛運,仕事運,金運,週間占い,月間占い",
+      "promotionalText": "恋愛、エネルギー、仕事、お金から今日を読み解く。占星術の計算はすべて端末内でプライベートに行われます。",
+      "releaseNotes": "Mysticaが登場。毎日・7日間・月間のリーディング、端末内計算、4つの表示言語、共有できるストーリーカードを搭載しました。",
+      "status": "draft"
+    },
+    {
+      "locale": "ko",
+      "title": "Mystica: 오늘의 별자리",
+      "subtitle": "나만을 위한 오늘의 별자리",
+      "shortDescription": "기기에서 계산하는 맞춤형 오늘·주간·월간 별자리 운세.",
+      "fullDescription": "별자리 운세가 지금 나에게 중요한 이야기를 건넬 때, 하루를 바라보는 시선도 달라집니다.\n\nMystica는 태양, 달, 눈에 보이는 행성의 실제 위치를 태양 별자리와 선택한 관심사에 맞춘 독창적인 리딩으로 바꿉니다. 천문 계산은 기기에서 직접 이루어지며, 프로필은 글의 어조와 강조점을 조정하는 데만 사용됩니다.\n\n각 리딩은 세 가지 영역을 살펴봅니다.\n- 사랑과 관계\n- 균형과 에너지\n- 일과 돈\n\n매일 새로운 리딩을 확인하세요. 앞으로 7일의 흐름을 살펴보고, 반복되는 신호를 통해 이번 달의 주제를 발견할 수 있습니다. 행운의 숫자와 색상, 별자리 궁합도 일관된 방식으로 가볍게 더해집니다.\n\n마음에 와닿는 리딩은 9:16 Mystica 카드로 만들어 Instagram Stories나 다른 앱에 공유할 수 있습니다. 카드에는 별자리 내용과 Mystica 브랜드만 표시되며 생년월일, 나이, 국가, 구매 상태는 포함되지 않습니다.\n\n처음부터 고려한 개인정보 보호:\n- 행성 위치는 기기에서 계산\n- 리딩은 기기에 저장\n- 계정이나 클라우드 프로필 불필요\n- 웹 운세 복사 및 생성형 AI 미사용\n\n서로 다른 3일 동안 오늘의 리딩을 세 번 이용해 볼 수 있습니다. Premium은 주간 또는 연간 구독으로 매일의 이용을 이어가고 주간·월간 리딩을 추가합니다. 구매 전 앱 스토어에서 가격, 결제 주기, 갱신 조건을 표시합니다. 구매 복원과 구독 관리 또는 해지도 스토어에서 할 수 있습니다.\n\nMystica의 점성술 콘텐츠는 오락과 개인적인 성찰을 위한 것이며 의료, 금융 또는 전문적인 조언을 대신하지 않습니다.",
+      "keywords": "오늘의 운세,별자리,점성술,띠별 운세,연애운,직장운,금전운,주간 운세,월간 운세",
+      "promotionalText": "사랑, 에너지, 일과 돈의 관점에서 오늘을 읽어 보세요. 모든 점성술 계산은 기기에서 비공개로 이루어집니다.",
+      "releaseNotes": "Mystica 출시: 오늘·7일·월간 리딩, 기기 내 비공개 계산, 4개 인터페이스 언어와 공유 가능한 스토리 카드를 제공합니다.",
+      "status": "draft"
+    }
+  ],
+  "pricingPlan": {
+    "baseCurrency": "USD",
+    "strategy": "Crear productos de suscripción semanal y anual en Google Play y App Store, vincularlos al entitlement premium en RevenueCat y mostrar siempre precios y periodos localizados devueltos por la tienda. Usar el semanal como opción de menor compromiso y el anual como recomendación de valor, sin descuentos inventados ni comparaciones que no provengan de precios activos.",
+    "products": [
+      {
+        "externalProductId": "mystica_premium_weekly",
+        "name": "Mystica Premium Weekly",
+        "kind": "subscription",
+        "billingPeriod": "P1W",
+        "basePlanId": "weekly-autorenewing",
+        "recommendedBasePrice": 4.99,
+        "rationale": "Opción de menor compromiso para continuar con nuevas lecturas antes de elegir un periodo largo. El precio es una propuesta y debe ajustarse a un punto válido de cada tienda.",
+        "premiumBenefits": [
+          "Acceso continuo a una lectura personalizada cada día",
+          "Resumen astrológico de los próximos siete días",
+          "Panorama mensual basado en señales persistentes"
+        ]
+      },
+      {
+        "externalProductId": "mystica_premium_annual",
+        "name": "Mystica Premium Annual",
+        "kind": "subscription",
+        "billingPeriod": "P1Y",
+        "basePlanId": "annual-autorenewing",
+        "recommendedBasePrice": 39.99,
+        "rationale": "Plan recomendado para quienes incorporan la lectura a su rutina durante el año, con un coste efectivo menor que renovar semanalmente. La comparación sólo debe mostrarse con precios reales de la tienda.",
+        "premiumBenefits": [
+          "Acceso continuo a una lectura personalizada cada día",
+          "Resumen astrológico de los próximos siete días",
+          "Panorama mensual basado en señales persistentes"
+        ]
+      }
+    ]
+  }
+}

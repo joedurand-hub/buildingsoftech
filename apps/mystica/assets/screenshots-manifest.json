@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "app": "mystica",
+  "generatedAt": "2026-07-21T04:20:00-03:00",
+  "source": "real-expo-web-capture",
+  "capture": {
+    "viewport": "360x640",
+    "deviceScaleFactor": 3,
+    "width": 1080,
+    "height": 1920,
+    "format": "png",
+    "appRuntime": "Expo SDK 57 web with expo-sqlite WebAssembly"
+  },
+  "activeLocales": ["en", "es", "pt", "fr"],
+  "deferredLocales": ["vi", "id", "de", "pl", "uk", "ru", "zh", "ja", "ko"],
+  "captures": [
+    { "locale": "en", "feature": "onboarding-welcome", "headline": "A horoscope that feels like you", "path": "./assets/screenshots/en/01-bienvenida.png", "width": 1080, "height": 1920, "checksum": "sha256:3977afe5c367285b9f03b3d80a46b242e02218a7754023ceab52f2cd666ce39f" },
+    { "locale": "en", "feature": "personalization", "headline": "Choose the voice that guides you", "path": "./assets/screenshots/en/02-personalizacion.png", "width": 1080, "height": 1920, "checksum": "sha256:8ce850c98fdc158f617cb5712cff11a8fa579df2c4fc95b2c2f5768c5d95aa8e" },
+    { "locale": "en", "feature": "daily-reading", "headline": "Read today's cosmic weather", "path": "./assets/screenshots/en/03-lectura-diaria.png", "width": 1080, "height": 1920, "checksum": "sha256:bfa9c0c2f00a98782ba7bc103bfb643676c029fa177da97165b094b517a7ef87" },
+    { "locale": "en", "feature": "three-areas", "headline": "Love, wellbeing, work and money", "path": "./assets/screenshots/en/04-tres-areas.png", "width": 1080, "height": 1920, "checksum": "sha256:f8acd31f858aa65e6f8c58a2315a929953d5c0c78c2e7726ad39904f64130ffa" },
+    { "locale": "en", "feature": "story-sharing", "headline": "Share your day as a Story", "path": "./assets/screenshots/en/05-compartir-historia.png", "width": 1080, "height": 1920, "checksum": "sha256:4306b63568cdc9720a0bf88bbca648a70a8e13d202ee88855cf0a43f9ac7b7d1" },
+
+    { "locale": "es", "feature": "onboarding-welcome", "headline": "Un horóscopo que se siente como vos", "path": "./assets/screenshots/es/01-bienvenida.png", "width": 1080, "height": 1920, "checksum": "sha256:871447cac421bbafc58c201f36db73f4094ccda9c23e4d51d2b05a1b71177c99" },
+    { "locale": "es", "feature": "personalization", "headline": "Elegí la voz que te acompaña", "path": "./assets/screenshots/es/02-personalizacion.png", "width": 1080, "height": 1920, "checksum": "sha256:bfc33055471e31fa0b52982cfebbc3d06f15e1fc9af57d7fa4db8113da0dc221" },
+    { "locale": "es", "feature": "daily-reading", "headline": "Leé el clima cósmico de hoy", "path": "./assets/screenshots/es/03-lectura-diaria.png", "width": 1080, "height": 1920, "checksum": "sha256:6537ef5ada79558e8717820b35365310bbeaa4805daeb0dc8b30a28ae40fb0ef" },
+    { "locale": "es", "feature": "three-areas", "headline": "Amor, bienestar, trabajo y dinero", "path": "./assets/screenshots/es/04-tres-areas.png", "width": 1080, "height": 1920, "checksum": "sha256:231f2edbde7898bd7294d79e7e6cd72a11728457d60a3c5bd1e10d4bfd4b9440" },
+    { "locale": "es", "feature": "story-sharing", "headline": "Compartí tu día como Historia", "path": "./assets/screenshots/es/05-compartir-historia.png", "width": 1080, "height": 1920, "checksum": "sha256:b1ed29550f077ebd76189f6018f44ac515be01a07231ac2dc4206e781a5d03ff" },
+
+    { "locale": "pt", "feature": "onboarding-welcome", "headline": "Um horóscopo com a sua cara", "path": "./assets/screenshots/pt/01-bienvenida.png", "width": 1080, "height": 1920, "checksum": "sha256:e038fa7cf403534af8bbac95e3b16521dea2d7985b13f2b27de063bf660418bf" },
+    { "locale": "pt", "feature": "personalization", "headline": "Escolha a voz que acompanha você", "path": "./assets/screenshots/pt/02-personalizacion.png", "width": 1080, "height": 1920, "checksum": "sha256:a96aae293d801388b9005fa61b3f05b353254867986fcc7cec90bbe8f20f2d9e" },
+    { "locale": "pt", "feature": "daily-reading", "headline": "Leia o clima cósmico de hoje", "path": "./assets/screenshots/pt/03-lectura-diaria.png", "width": 1080, "height": 1920, "checksum": "sha256:cb40d0f780f5bfc2594eb2d726b08878c1040913b2d7f02f64593a2d8ce1e991" },
+    { "locale": "pt", "feature": "three-areas", "headline": "Amor, bem-estar, trabalho e dinheiro", "path": "./assets/screenshots/pt/04-tres-areas.png", "width": 1080, "height": 1920, "checksum": "sha256:ea19cb910a390d589db8462d28e22eef20d726d07e43337b233ce98b3340d45f" },
+    { "locale": "pt", "feature": "story-sharing", "headline": "Compartilhe seu dia nos Stories", "path": "./assets/screenshots/pt/05-compartir-historia.png", "width": 1080, "height": 1920, "checksum": "sha256:2b26d8b77200f7ff8c6e64fcb0b09adb15cb02004e9fb589aae2c6dacd9cdefb" },
+
+    { "locale": "fr", "feature": "onboarding-welcome", "headline": "Un horoscope qui vous ressemble", "path": "./assets/screenshots/fr/01-bienvenida.png", "width": 1080, "height": 1920, "checksum": "sha256:db0d3fc3afa1491f355241e437103cc8de443e42e42dd5d95c712ed5da77f626" },
+    { "locale": "fr", "feature": "personalization", "headline": "Choisissez la voix qui vous guide", "path": "./assets/screenshots/fr/02-personalizacion.png", "width": 1080, "height": 1920, "checksum": "sha256:433666c5ae597003296b76a81320b29871ed751c87f8b19abba8d44753a913ed" },
+    { "locale": "fr", "feature": "daily-reading", "headline": "Lisez le climat cosmique du jour", "path": "./assets/screenshots/fr/03-lectura-diaria.png", "width": 1080, "height": 1920, "checksum": "sha256:3268df8faf3cfb2596bb17511ad31101d01c9ee3a4f72e6e1aaf4ec883575677" },
+    { "locale": "fr", "feature": "three-areas", "headline": "Amour, bien-être, travail et argent", "path": "./assets/screenshots/fr/04-tres-areas.png", "width": 1080, "height": 1920, "checksum": "sha256:276a7ba64d3efeb3d7b824885aff56b2b9bed8e95ee2094dc4a1b817b6bad55c" },
+    { "locale": "fr", "feature": "story-sharing", "headline": "Partagez votre journée en Story", "path": "./assets/screenshots/fr/05-compartir-historia.png", "width": 1080, "height": 1920, "checksum": "sha256:1fa2928e18948ee3906feca9c54f7a58dfff59a604b10a3e9571daaed7aee9a3" }
+  ],
+  "qa": {
+    "realBaseCaptures": true,
+    "localizedActiveSetsComplete": true,
+    "allTargetLocalesComplete": false,
+    "paywallCapture": "./assets/screenshots/es/06-premium.png",
+    "paywallPublishable": false,
+    "notes": [
+      "The paywall capture is retained for QA but excluded from Store assets until RevenueCat returns real localized prices.",
+      "The nine deferred interface locales are intentionally not represented by English fallback screenshots.",
+      "All published capture checksums use SHA-256 and match the lossless PNG files in this directory."
+    ]
+  }
+}

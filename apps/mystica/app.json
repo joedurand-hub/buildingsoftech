@@ -1,0 +1,68 @@
+{
+  "$schema": "../app.schema.json",
+  "schemaVersion": 1,
+  "id": "mystica",
+  "name": "Mystica",
+  "status": "development",
+  "category": "Lifestyle & entertainment",
+  "shortDescription": "Personalized daily, weekly, and monthly horoscope readings calculated privately on your device.",
+  "supportEmail": "buildingsofttech@gmail.com",
+  "publicUrl": "https://buildingsofttech.vercel.app/apps/mystica/",
+  "identifiers": {
+    "androidPackage": "com.buildingsofttech.mystica",
+    "iosBundle": "com.buildingsofttech.mystica"
+  },
+  "routes": {
+    "landing": "https://buildingsofttech.vercel.app/apps/mystica/",
+    "privacy": "https://buildingsofttech.vercel.app/apps/mystica/privacy/",
+    "terms": "https://buildingsofttech.vercel.app/apps/mystica/terms/",
+    "refunds": "https://buildingsofttech.vercel.app/apps/mystica/refunds/",
+    "support": "https://buildingsofttech.vercel.app/apps/mystica/support/",
+    "accountDeletion": "https://buildingsofttech.vercel.app/apps/mystica/account-deletion/",
+    "childSafety": "https://buildingsofttech.vercel.app/apps/mystica/child-safety/"
+  },
+  "storeAssets": {
+    "icon": "./assets/icon-512.png",
+    "featureGraphic": "./assets/feature-graphic-1024x500.png",
+    "screenshots": [
+      "./assets/screenshots/en/01-bienvenida.png",
+      "./assets/screenshots/en/02-personalizacion.png",
+      "./assets/screenshots/en/03-lectura-diaria.png",
+      "./assets/screenshots/en/04-tres-areas.png",
+      "./assets/screenshots/en/05-compartir-historia.png",
+      "./assets/screenshots/es/01-bienvenida.png",
+      "./assets/screenshots/es/02-personalizacion.png",
+      "./assets/screenshots/es/03-lectura-diaria.png",
+      "./assets/screenshots/es/04-tres-areas.png",
+      "./assets/screenshots/es/05-compartir-historia.png",
+      "./assets/screenshots/pt/01-bienvenida.png",
+      "./assets/screenshots/pt/02-personalizacion.png",
+      "./assets/screenshots/pt/03-lectura-diaria.png",
+      "./assets/screenshots/pt/04-tres-areas.png",
+      "./assets/screenshots/pt/05-compartir-historia.png",
+      "./assets/screenshots/fr/01-bienvenida.png",
+      "./assets/screenshots/fr/02-personalizacion.png",
+      "./assets/screenshots/fr/03-lectura-diaria.png",
+      "./assets/screenshots/fr/04-tres-areas.png",
+      "./assets/screenshots/fr/05-compartir-historia.png"
+    ]
+  },
+  "locales": ["en", "es", "pt", "vi", "id", "fr", "de", "pl", "uk", "ru", "zh", "ja", "ko"],
+  "monetization": {
+    "enabled": true,
+    "restorePurchases": true,
+    "cancelRoute": true,
+    "refundRoute": true,
+    "lootBoxes": false
+  },
+  "releaseReadiness": {
+    "description": true,
+    "privacy": true,
+    "terms": true,
+    "refunds": true,
+    "support": true,
+    "accountDeletion": true,
+    "childSafety": true,
+    "screenshots": false
+  }
+}

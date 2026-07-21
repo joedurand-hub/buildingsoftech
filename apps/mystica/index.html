@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Mystica | Horóscopo personalizado y privado</title>
+    <meta name="description" content="Horóscopos diarios, semanales y mensuales calculados en tu dispositivo con posiciones astronómicas reales." />
+    <link rel="stylesheet" href="../../styles.css" />
+    <style>
+      :root { --mystica: #6d4be7; --mystica-dark: #170d35; --mystica-gold: #f4c96b; }
+      .mystica-hero { position: relative; overflow: hidden; padding: 74px 0 54px; }
+      .mystica-hero::before { content: ""; position: absolute; inset: 0; border-radius: 34px; background: radial-gradient(circle at 80% 18%, rgba(244,201,107,.2), transparent 26%), linear-gradient(135deg, #170d35, #3a2477 58%, #6d4be7); z-index: -1; }
+      .mystica-hero .hero-copy { padding: 44px; color: #fff; }
+      .mystica-hero .hero-copy p:not(.eyebrow) { color: rgba(255,255,255,.82); }
+      .mystica-hero .eyebrow { color: var(--mystica-gold); }
+      .mystica-hero .button.primary { color: #20113f; background: var(--mystica-gold); }
+      .feature-art { width: 100%; border-radius: 28px; box-shadow: 0 24px 60px rgba(11,6,29,.35); }
+      .mystica-icon { background: linear-gradient(135deg, var(--mystica), #17102e) !important; }
+      .trust-strip { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 24px; }
+      .trust-strip div { padding: 16px; border: 1px solid rgba(255,255,255,.18); border-radius: 16px; background: rgba(255,255,255,.08); }
+      .trust-strip strong { display: block; margin-bottom: 5px; color: #fff; }
+      .trust-strip span { color: rgba(255,255,255,.72); font-size: 13px; line-height: 1.45; }
+      @media (max-width: 820px) { .mystica-hero .hero-copy { padding: 28px; } .trust-strip { grid-template-columns: 1fr; } }
+    </style>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="../../"><span class="brand-mark">B</span><span>BuildingSoft Tech</span></a>
+      <nav><a href="../../#apps">Apps</a><a href="./privacy/">Privacidad</a><a href="./refunds/">Reembolsos</a><a href="./support/">Soporte</a></nav>
+    </header>
+
+    <main>
+      <section class="app-hero mystica-hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Mystica · Entretenimiento 18+</p>
+          <h1>Tu cielo, interpretado para vos.</h1>
+          <p>Recibí una lectura diaria, semanal y mensual personalizada en Amor, Bienestar y energía, y Trabajo y dinero. Los cálculos se hacen de forma privada en tu dispositivo.</p>
+          <div class="hero-actions"><a class="button primary" href="#experience">Conocer Mystica</a><a class="button secondary" href="./privacy/">Cómo protegemos tus datos</a></div>
+          <div class="trust-strip">
+            <div><strong>Astrología local</strong><span>Posiciones planetarias tropicales calculadas sin IA ni textos copiados.</span></div>
+            <div><strong>Privacidad primero</strong><span>Tu perfil y tus lecturas permanecen en el teléfono.</span></div>
+            <div><strong>Probala gratis</strong><span>Tres lecturas diarias en días distintos antes de Premium.</span></div>
+          </div>
+        </div>
+        <div style="padding:28px"><img class="feature-art" src="./assets/feature-graphic-1024x500.png" alt="Universo visual índigo y dorado de Mystica" /></div>
+      </section>
+
+      <section class="section" id="experience" style="--app-color:#6d4be7">
+        <div class="section-heading"><div><p class="eyebrow">La experiencia</p><h2>Una guía breve para cada ritmo.</h2></div><p class="section-intro">Mystica combina señales astronómicas reproducibles con una redacción original y un tono adaptado a tu perfil. Es entretenimiento y reflexión personal, no consejo médico ni financiero.</p></div>
+        <div class="screenshot-grid">
+          <img class="store-screenshot" src="./assets/screenshots/es/01-bienvenida.png" alt="Bienvenida de Mystica con Luna, la gatita cósmica" />
+          <img class="store-screenshot" src="./assets/screenshots/es/03-lectura-diaria.png" alt="Lectura diaria de Mystica dividida en tres áreas" />
+          <img class="store-screenshot" src="./assets/screenshots/es/05-compartir-historia.png" alt="Vista previa de la tarjeta vertical para compartir una lectura de Mystica" />
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section-heading"><p class="eyebrow">Qué incluye</p><h2>Astrología clara, moderna y sin ruido.</h2></div>
+        <div class="app-grid">
+          <article class="app-card"><div class="app-icon mystica-icon">01</div><div><h3>Lectura diaria</h3><p>Señales del día en Amor, Bienestar y energía, y Trabajo y dinero.</p></div></article>
+          <article class="app-card"><div class="app-icon mystica-icon">07</div><div><h3>Tu semana</h3><p>Un resumen de los próximos siete días que prioriza los movimientos dominantes.</p></div></article>
+          <article class="app-card"><div class="app-icon mystica-icon">30</div><div><h3>Panorama mensual</h3><p>Una mirada compacta a las señales más persistentes de todo el mes.</p></div></article>
+          <article class="app-card"><div class="app-icon mystica-icon">↗</div><div><h3>Compartí tu carta</h3><p>Creá una Historia 9:16 con la lectura y la firma de Mystica, sin incluir respuestas privadas del onboarding.</p></div></article>
+        </div>
+      </section>
+
+      <section class="section split">
+        <div><p class="eyebrow">Premium</p><h2>Acceso semanal o anual.</h2></div>
+        <div class="steps">
+          <div><strong>El mismo acceso en ambos planes</strong><p>Lecturas diarias, semanales y mensuales mientras la suscripción esté activa.</p></div>
+          <div><strong>Precios de tu tienda</strong><p>La app muestra el importe y el período localizados que entrega Google Play o App Store. Las suscripciones se renuevan automáticamente hasta su cancelación.</p></div>
+          <div><strong>Control siempre disponible</strong><p>Podés restaurar compras, administrar la renovación y consultar reembolsos desde nuestras páginas de soporte.</p></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer"><span>© 2026 BuildingSoft Tech</span><a href="./privacy/">Privacidad</a><a href="./terms/">Términos</a><a href="./refunds/">Reembolsos</a><a href="./support/">Soporte</a><a href="./account-deletion/">Eliminar datos</a></footer>
+  </body>
+</html>
