@@ -18,7 +18,8 @@
     "terms": "https://buildingsofttech.vercel.app/apps/clearpuff/terms/",
     "refunds": "https://buildingsofttech.vercel.app/apps/clearpuff/refunds/",
     "support": "https://buildingsofttech.vercel.app/apps/clearpuff/support/",
-    "accountDeletion": "https://buildingsofttech.vercel.app/apps/clearpuff/account-deletion/"
+    "accountDeletion": "https://buildingsofttech.vercel.app/apps/clearpuff/account-deletion/",
+    "childSafety": "https://buildingsofttech.vercel.app/apps/clearpuff/child-safety/"
   },
   "storeAssets": {
     "icon": null,
@@ -40,6 +41,7 @@
     "refunds": true,
     "support": true,
     "accountDeletion": true,
+    "childSafety": true,
     "screenshots": false
   }
 }
